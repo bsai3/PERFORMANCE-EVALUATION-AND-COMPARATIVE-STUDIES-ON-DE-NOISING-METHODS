@@ -1,5 +1,5 @@
 # INTRODUCTION
-This paper initiates a crucial exploration within the domain of image processing, focusing on the critical task of image denoising. 
+This project initiates a crucial exploration within the domain of image processing, focusing on the critical task of image denoising. 
 Exploration of a spectrum of denoising methods, including traditional approaches like Mean and Median Filtering, as well as more advanced techniques 
 such as Improved Median Filtering and Thresholding with Wavelet Transform. With precision and care, we apply these diverse methods to denoise a
 collection of images, striving to enhance their quality and remove unwanted artifacts. To evaluate the effectiveness of these methods, we employ 
